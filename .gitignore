@@ -1,0 +1,4 @@
+build/
+physical/p16_cpu/runs/
+*.vvp
+*.vcd

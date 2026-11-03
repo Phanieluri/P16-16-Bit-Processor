@@ -1,0 +1,9 @@
+VCD info: dumpfile build/p16_system.vcd opened for output.
+
+=== P16 SYSTEM RESULTS ===
+Cycles: 11
+PC: 0d
+Halted: 1
+Fault: 0
+P16 COMPLETE SYSTEM TEST PASSED
+tb/tb_p16_system.sv:97: $finish called at 126000 (1ps)
